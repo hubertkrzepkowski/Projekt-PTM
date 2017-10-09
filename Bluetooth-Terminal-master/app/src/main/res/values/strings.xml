@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dom</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="bg">#C0C0C0</color>
+    <string-array name="dioda">
+        <item>ON</item>
+        <item>Auto</item>
+        <item>OFF</item>
+    </string-array>
+</resources>
